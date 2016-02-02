@@ -1,8 +1,8 @@
 
 FUNCTION AreEqual(xParametro1, xParametro2)
 
- LOCAL i //teste Magna
- MEMVAR lRetorno
+ LOCAL i //teste Magna teste
+ MEMVAR lRetorno   // testando Hugo
  PRIVATE lRetorno:=.T.
 
  IF ValType(xParametro1) <> ValType(xParametro2)

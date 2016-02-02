@@ -1,7 +1,7 @@
 
 FUNCTION AreEqual(xParametro1, xParametro2)
 
- LOCAL i
+ LOCAL i //teste Magna teste
  MEMVAR lRetorno
  PRIVATE lRetorno:=.T.
 
